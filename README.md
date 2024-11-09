@@ -30,18 +30,18 @@ Déclarez une variable `nomUtilisateur` qui peut être modifiée, avec la valeur
 Puis modifiez sa valeur pour "Bob", reaffichez la valeur dans la console.
 
 
-### Exercice 4: Manipulation de Chaînes
+### Exercice 6: Manipulation de Chaînes
 - Créez une variable 'prenom' et 'nom'
 - Concatenez-les avec un espace entre
 - Mettez le résultat en majuscules
 - Affichez le nombre de caractères
 
-### Exercice 5: 
+### Exercice 7: 
 Creer une variable 'presentation' qui prend la valeur 'Je suis Mafouz DIALLO'
 - Diviser le contenu en caractere affecter à une variable 'presentationDiviser' et afficher.
 - Renverser le contenu de 'presentationDiviser' et afficher 
 
-### Exercice 5: Calculs de Base
+### Exercice 8: Calculs de Base
 - Créez deux variables numériques
 - Effectuez les opérations: +, -, *, /
 - Calculez le reste de leur division
