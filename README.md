@@ -37,7 +37,7 @@ Puis modifiez sa valeur pour "Bob", reaffichez la valeur dans la console.
 - Affichez le nombre de caractères
 
 ### Exercice 7: 
-Creer une variable 'presentation' qui prend la valeur 'Je suis Mafouz DIALLO'
+Creer une variable 'presentation' qui prend la valeur 'Je suis ....'
 - Diviser le contenu en caractere affecter à une variable 'presentationDiviser' et afficher.
 - Renverser le contenu de 'presentationDiviser' et afficher 
 
