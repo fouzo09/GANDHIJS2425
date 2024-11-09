@@ -36,6 +36,11 @@ Puis modifiez sa valeur pour "Bob", reaffichez la valeur dans la console.
 - Mettez le résultat en majuscules
 - Affichez le nombre de caractères
 
+### Exercice 5: 
+Creer une variable 'presentation' qui prend la valeur 'Je suis Mafouz DIALLO'
+- Diviser le contenu en caractere affecter à une variable 'presentationDiviser' et afficher.
+- Renverser le contenu de 'presentationDiviser' et afficher 
+
 ### Exercice 5: Calculs de Base
 - Créez deux variables numériques
 - Effectuez les opérations: +, -, *, /
