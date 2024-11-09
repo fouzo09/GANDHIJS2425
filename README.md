@@ -110,6 +110,6 @@ Puis modifiez sa valeur pour "Bob", reaffichez la valeur dans la console.
 
 
 ## PROJETS
-### Plateforme de messagerie instantanée
-### Plateforme multijoueur de jeux de dé
-### Application de Transfert FTP
+### Plateforme de messagerie instantanéen (Bouba - G1)
+### Plateforme multijoueur de jeux de dé (Alpha Oumar - G2)
+### Application de Transfert FTP (Oussou Bobo BARRY G3)
