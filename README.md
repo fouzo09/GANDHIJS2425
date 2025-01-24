@@ -113,6 +113,22 @@ Creer une variable 'presentation' qui prend la valeur 'Je suis Gandhiste'
 - Si heure < 9 ou heure > 17 → "Fermé"
 - Sinon → "Ouvert"
 
+  
+---------------------------------------------------------------------------------------------
+
+### Exercice 1 : Somme des Carrés
+Écrivez une fonction `sumOfSquares` qui prend un nombre variable d'arguments et retourne la somme de leurs carrés.
+
+### Exercice : Concaténation de Chaînes
+Écrivez une fonction `concatenateStrings` qui prend un nombre variable de chaînes de caractères et les concatène en une seule chaîne, séparées par un espace.
+
+
+### Exercice : Filtrage des Nombres Pairs et Impairs
+Écrivez une fonction `filterEvenAndOdd` qui prend un nombre variable d'arguments et retourne un objet contenant deux tableaux :
+
+- `even` : les nombres pairs.
+- `odd` : les nombres impairs.
+
 
 ## PROJETS
 ### Plateforme de messagerie instantanéen (Bouba - G1)
