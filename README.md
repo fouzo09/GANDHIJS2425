@@ -116,6 +116,22 @@ Creer une variable 'presentation' qui prend la valeur 'Je suis Gandhiste'
   
 ---------------------------------------------------------------------------------------------
 
+# Le Gestionnaire de Notes
+
+## Contexte
+Vous développez un système de gestion de notes pour un établissement scolaire.
+
+## Phase 1 - Structure Initiale
+Créez une fonction `calculerMoyenne` qui :
+- Prend en paramètres un nom d'étudiant de MIAGE L1 et ses 3 notes dans les 3 matieres
+- Calcule la moyenne
+- Retourne un message formaté avec le nom, les notes et la moyenne
+L'établissement doit maintenant gérer :
+- Pour les étudiants de MIAGE L2 qui ont 4 matieres
+- Pour les étudiants de MIAGE L3 qui ont 5 matieres
+- Pour les étudiants de MIAGE L4 qui ont 6 matieres
+Il y'a une possibilité d'etendre ce programme pour les autres departements dont le nombre de matieres varie aussi.
+
 ### Exercice 1 : Somme des Carrés
 Écrivez une fonction `sumOfSquares` qui prend un nombre variable d'arguments et retourne la somme de leurs carrés.
 
