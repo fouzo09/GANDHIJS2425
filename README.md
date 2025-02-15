@@ -145,6 +145,75 @@ Il y'a une possibilité d'etendre ce programme pour les autres departements dont
 - `even` : les nombres pairs.
 - `odd` : les nombres impairs.
 
+=========================================================== Object, Contructeur, Class ==================================
+
+# Exercice 1 : Objet Littéral
+
+## Énoncé
+Créez un objet littéral `voiture` avec les propriétés suivantes :
+
+- `marque` (chaîne de caractères),
+- `modele` (chaîne de caractères),
+- `annee` (nombre).
+
+Ajoutez une méthode publique `afficherDetails` qui affiche dans la console les informations de la voiture sous la forme :
+
+> "Cette voiture est une [marque] [modele] de l'année [année]."
+
+Ensuite, créez une propriété privée `_kilometrage` initialisée à 0 et ajoutez une méthode publique `ajouterKilometres(km)` qui incrémente le kilométrage de la voiture. Ajoutez également une méthode publique `obtenirKilometrage` pour afficher le kilométrage actuel.
+
+---
+
+# Exercice 2 : Constructeur et Prototype
+
+## Énoncé
+Créez une fonction constructeur `Livre` qui prend comme arguments :
+
+- `titre` (chaîne de caractères),
+- `auteur` (chaîne de caractères),
+- `pages` (nombre).
+
+Ajoutez une méthode au prototype de `Livre` appelée `afficherResume` qui affiche dans la console :
+
+> "Le livre '[titre]' écrit par [auteur] contient [pages] pages."
+
+Ensuite, créez deux instances de `Livre` et appelez la méthode `afficherResume` pour chacune d'elles.
+
+---
+
+# Exercice 3 : Classe avec Propriétés/Méthodes Privées
+
+## Énoncé
+Créez une classe `CompteBancaire` avec les éléments suivants :
+
+- Une propriété privée `#solde` initialisée à 0,
+- Une méthode privée `#verifierSolde` qui vérifie si le solde est positif ou nul,
+- Une méthode publique `depot(montant)` qui ajoute un montant au solde,
+- Une méthode publique `retrait(montant)` qui retire un montant du solde (vérifie que le solde est suffisant avant de faire le retrait),
+- Une méthode publique `afficherSolde` qui affiche le solde actuel.
+
+Testez votre classe en créant une instance et en effectuant des dépôts et retraits.
+
+---
+
+# Exercice 4 : Héritage et Encapsulation
+
+## Énoncé
+Créez une classe parente `Animal` avec les éléments suivants :
+
+- Une propriété privée `#nom`,
+- Une méthode publique `nourrir()` qui affiche :
+  
+  > "L'animal [nom] a été nourri."
+  
+Puis, créez une classe enfant `Chien` qui hérite de `Animal` et ajoute :
+
+- Une méthode publique `aboyer()` qui affiche :
+  
+  > "Woof ! Je suis [nom]."
+  
+Enfin, testez votre code en créant une instance de `Chien`, en l'alimentant et en le faisant aboyer.
+
 
 ## PROJETS
 ### Plateforme de messagerie instantanéen (Bouba - G1)
